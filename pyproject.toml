@@ -1,0 +1,4 @@
+# per: https://github.com/nerfstudio-project/gsplat/pull/581
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "torch"]
+build-backend = "setuptools.build_meta"
